@@ -1,0 +1,31 @@
+{
+  "name": "nanhuredboat-animation-responsive",
+  "version": "1.0.0",
+  "description": "A responsive animation of the Nanhu Red Boat - the birthplace of the Communist Party of China",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/nanhuredboat-animation-responsive.git"
+  },
+  "keywords": [
+    "animation",
+    "html",
+    "css",
+    "javascript",
+    "history",
+    "responsive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/nanhuredboat-animation-responsive/issues"
+  },
+  "homepage": "https://github.com/username/nanhuredboat-animation-responsive#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
